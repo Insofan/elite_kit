@@ -1,8 +1,7 @@
 name: elite_kit
 description: A convenient extension of Flutter.
 version: 0.0.1
-author: Insofan
-email: insofan3156@gmail.com
+author: Insofan <insofan3156@gmail.com>
 homepage: https://github.com/Insofan/elite_kit
 
 environment:
